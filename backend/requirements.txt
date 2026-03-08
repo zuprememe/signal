@@ -1,0 +1,8 @@
+openai
+feedparser
+requests
+python-dotenv
+supabase
+python-telegram-bot
+beautifulsoup4
+lxml
