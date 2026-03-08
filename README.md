@@ -5,7 +5,7 @@ Signal scrapes macro news across multiple outlets, strips media bias using Claud
 
 ## How It Works
 1. **Scraper** pulls headlines from Reuters, AP, BBC, NYT across macro/geopolitical topics
-2. **Claude AI** strips bias and scores sentiment disproportion (is the reaction warranted?)
+2. **Kimi AI** strips bias and scores sentiment disproportion (is the reaction warranted?)
 3. **Supabase** stores predictions with timestamps for accuracy tracking
 4. **Dashboard** displays live signals and historical prediction accuracy
 5. **Telegram** alerts when a high-confidence overcorrection is detected
